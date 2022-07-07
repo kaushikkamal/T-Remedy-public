@@ -26,6 +26,10 @@ To design an Android based system to provide a platform to the tea-growing commu
 
 ## Features
 
+- OAuth login with Google
+- Light/Dark theme 
+- Offline mode is available for favourite posts
+- Search can be done either by disease name or symptom or by category
 - Password Hashing
 - Authentication (using JWT)
 - Role-Based Authorization
